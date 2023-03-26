@@ -1,1 +1,4 @@
-# Real---Time-Vehicle-Detection-and-Tracking-in-Adverse-Weather-Conditions
+# Real-Time Vehicle Detection and Tracking in Adverse Weather Conditions
+
+
+Most object detection and tracking algorithms function adequately under typical settings; however, the detection accuracy dramatically drops on days with inclement weather, such as rain, glare, or fog. Our work aims to provide an image enhancement method to increase visibility to enhance the functionality of the current object recognition and tracking models. Additionally, the suggested approach can be used without requiring the model to be retrained. Via the preceding extension of a dark channel, the visibility was complimented. Using the You Only Look Once (YOLOv3) deep learning model to detect automobiles, the strategy is being tested on several surveillance recordings. Also, we have detected the accident using the DenseNet model.
